@@ -1,10 +1,10 @@
 # NanoDet-PyTorch
 
 * 说明：NanoDet作者开源代码地址：https://github.com/RangiLyu/nanodet  （致敬）
-* 该代码基于NanoDet项目进行小裁剪，专门用来实现Python语言、PyTorch 版本的代码，下载直接能使用，支持图片、视频文件、摄像头实时目标检测。
+* **该代码基于NanoDet项目进行小裁剪，专门用来实现Python语言、PyTorch 版本的代码，下载直接能使用，支持图片、视频文件、摄像头实时目标检测。**
 
 
-- YOLO、SSD、Fast R-CNN等模型在目标检测方面速度较快和精度较高，但是这些模型比较大，不太适合移植到移动端或嵌入式设备；
+- YOLO、SSD、Fast R-CNN等模型在目标检测方面速度较快和精度较高，但是这些模型比较大，不太适合移植到**移动端或嵌入式设备；**
 - 轻量级模型 NanoDet-m，对单阶段检测模型三大模块（Head、Neck、Backbone）进行轻量化，目标加检测速度很快；模型文件大小仅几兆（小于4M）。
 - NanoDet 是一种 FCOS 式的单阶段 anchor-free 目标检测模型，它使用 ATSS 进行目标采样，使用 Generalized Focal Loss 损失函数执行分类和边框回归（box regression）
 
