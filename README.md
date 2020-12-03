@@ -71,5 +71,5 @@ Windows开发环境安装可以参考：
 * 通过测试发现NanoDet确实很快，但识别精度和效果比YOLOv4差不少的。
 * 适用于对检测精度要求不高的，对实时要求高的移动端或嵌入式设备。
 
-## 详细介绍请问我博客
+## 详细介绍
 https://guo-pu.blog.csdn.net/article/details/110410940
