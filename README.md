@@ -73,3 +73,7 @@ Windows开发环境安装可以参考：
 
 ## 详细介绍
 https://guo-pu.blog.csdn.net/article/details/110410940
+
+## 其他版本
+* 用于目标检测，模型小，检测速度快速，适合没GPU显卡的嵌入式设备运行，比如“树莓派”、ARM开发板、嵌入式开发板。
+https://github.com/guo-pu/NanoDet-PyTorch-CPU
